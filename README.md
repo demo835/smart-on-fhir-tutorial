@@ -1,3 +1,5 @@
 ### SMART on FHIR developer tutorial
 
-Test to access patient information from Cerner API
+The purpose of this test is to access patient information from the Cerner API.
+
+# Stage: In Development 
